@@ -7,7 +7,7 @@ It acts as a **WhatsApp chatbot** for **food delivery orders**, but the same arc
 
 
 
-![Alt text](path/image.png)
+![Alt text](image.png)
 
 ---
 
