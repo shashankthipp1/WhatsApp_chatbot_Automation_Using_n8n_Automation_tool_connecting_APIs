@@ -1,9 +1,5 @@
 # WhatsApp_chatbot_Automation_Using_n8n_Automation_tool_connecting_APIs
 This project is a WhatsApp chatbot for food delivery built with n8n, Google Gemini AI, and Google Sheets. It lets customers browse menus, place orders, and get updates via WhatsApp. Though designed for food delivery, it can be adapted for e-commerce, healthcare, support, and other business needs.
-# WhatsApp Chatbot for Food Delivery (Powered by n8n + AI)
-
-This project is an **automation workflow** built using [n8n](https://n8n.io), integrated with **WhatsApp** and **Google Sheets**, and powered by **Google Gemini AI**.  
-It acts as a **WhatsApp chatbot** for **food delivery orders**, but the same architecture can be extended to **any business use case** (e-commerce, appointment booking, customer support, etc.).
 
 
 
